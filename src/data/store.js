@@ -68,7 +68,7 @@ let state = reactive({
         id: 1,
         title: "Boolzap",
         description: "Ho creato una web app per messaggiare con un layout simile a whatsapp in Vue.Js, Bootstrap5, Html & CSS. Ho implementato la possibilità di cercare e filtrare tra i contatti, mandare messaggi (con possibilità di inserire emoji) con orario attuale reale, al quale si riceverà una risposta preimpostata, i messaggi si possono anche modificare ed eliminare. I messaggi non ci saranno più al refresh della pagina.",
-        image: "src/assets/boolzap.png",
+        image: "src/assets/img/boolzap.png",
         technologies: [
             1, 5, 6, 9
         ],
@@ -78,7 +78,7 @@ let state = reactive({
         id: 2,
         title: "Boolflix",
         description: "Web app che permette di ricercare film e serie tv tramite il server di \'The Movie DB\', il layout riprende netflix.",
-        image: "/src/assets/boolflix.png",
+        image: "/src/assets/img/boolflix.png",
         technologies: [
             2, 4, 7, 8
         ],
@@ -88,7 +88,7 @@ let state = reactive({
         id: 3,
         title: "BoolBnb",
         description: "Web app che permette di ricercare film e serie tv tramite il server di \'The Movie DB\', il layout riprende netflix.",
-        image: "/src/assets/boolflix.png",
+        image: "/src/assets/img/boolflix.png",
         technologies: [
             2, 4, 7, 8
         ],

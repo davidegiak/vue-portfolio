@@ -19,7 +19,7 @@ export default {
             </h2>
         </div>
         <div class="col-8 col-sm-6 col-md-5 col-lg-5">
-            <img class="jumboImg" src="/src/assets/fotoCurriculumNuova-removebg-preview.png" style="">
+            <img class="jumboImg" src="/src/assets/img/fotoCurriculumNuova-removebg-preview.png" style="">
 
         </div>
     </div>
