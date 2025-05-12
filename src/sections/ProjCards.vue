@@ -38,7 +38,6 @@ export default {
                         <span v-for="x, index in tech" :key="index" class="mx-2 fs-3">
                             <span v-for="item, index in store.tech" :key="index">
                                 <span v-if="x == item.id">
-                                    <!-- {{ item.name }} -->
                                     <a :class="item.name" :href="item.docs" target="_blank">
                                         <i :class="item.icon" aria-hidden="true"></i>
                                     </a>

@@ -88,7 +88,7 @@ let state = reactive({
         id: 3,
         title: "BoolBnb",
         description: "Web app che permette di ricercare film e serie tv tramite il server di \'The Movie DB\', il layout riprende netflix.",
-        image: "/src/assets/img/boolflix.png",
+        image: "/assets/img/boolflix.png",
         technologies: [
             2, 4, 7, 8
         ],
